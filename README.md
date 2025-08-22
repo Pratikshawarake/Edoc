@@ -1,1 +1,1 @@
-# Edoc
+# Edoc - Hospital appointment system
